@@ -16,5 +16,5 @@
 3. Сравнить результат с ожидаемым
 ### Тестирование производилось в следующем окружении:
 * Win10 x64
-* Java 11
+* OpenJDK version 11.0.11
 * IntelliJ IDEA Community Edition
